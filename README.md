@@ -33,7 +33,7 @@ O documento é separado em algumas partes de acordo com o sumário:
 Aqui vai uma demonstração de como é a leitura do projeto e como é sua estrutura:
 
 
-![videoExemplo](./video-exemplo/TCC-exemplo.mp4)
+![videoExemplo](./video-exemplo/gif-exemplo.mp4)
 
 ---
 
