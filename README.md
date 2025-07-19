@@ -2,7 +2,7 @@
 
 Este repositório contém meu TCC realizado no período de 2022 a 2023 na instituição ETEC Trajano Camargo. O estudo tem por objetivo analisar e compreender os benefícios e dificuldades que uma organização pode enfrentar ao implementar um sistema de gestão de empresa, em especial os sistemas ERP. O projeto foi realizado em dupla com o estudante Vitor Augusto Lopes sendo o outro autor. 
 
-O documento reúne as opniões dos autores e de terceiros de modo a corroborar com as afirmações apresentadas no estudo. 
+O documento reúne as opniões dos autores e de terceiros de modo a corroborar com as afirmações apresentadas no estudo. É Abordado conceitos como `custos de implementação`, `custos de treinamento`, `história e evolução` dos sistemas, `modalidades de sistema` e outros tópicos podem ser encontrados em: 
 
 ---
 
