@@ -33,7 +33,7 @@ O documento é separado em algumas partes de acordo com o sumário:
 Aqui vai uma demonstração de como é a leitura do projeto e como é sua estrutura:
 
 
-![videoExemplo](./video-exemplo/TCC-exemplo)
+![videoExemplo](./video-exemplo/TCC-exemplo.mp4)
 
 ---
 
@@ -49,7 +49,7 @@ Aqui vai uma demonstração de como é a leitura do projeto e como é sua estrut
 
 Você pode abrir o documento diretamente aqui no GitHub ou fazer o download para leitura local:
 
-📎 [Clique aqui para visualizar o PDF](./Gustavo%20X%20Vitor%20-%20Benef%C3%ADcios%20e%20dificuldades%20na%20implanta%C3%A7%C3%A3o%20de%20um%20sistema%20ERP.pdf)
+📎 [Clique aqui para visualizar o PDF](./TCC-documento/Gustavo%20X%20Vitor%20-%20Benef%C3%ADcios%20e%20dificuldades%20na%20implanta%C3%A7%C3%A3o%20de%20um%20sistema%20ERP.pdf)
 
 ---
 
