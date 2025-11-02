@@ -1,4 +1,4 @@
-# 🧾 TCC: Benefícios e Dificuldades na Implantação de um Sistema ERP
+# TCC: Benefícios e Dificuldades na Implantação de um Sistema ERP
 
 Este repositório contém meu TCC realizado no período de 2022 a 2023 na instituição ETEC Trajano Camargo. O estudo tem por objetivo analisar e compreender os benefícios e dificuldades que uma organização pode enfrentar ao implementar um sistema de gestão de empresa, em especial os sistemas ERP. O projeto foi realizado em dupla com o estudante Vitor Augusto Lopes sendo o outro autor. 
 
@@ -6,7 +6,7 @@ O documento reúne as opniões dos autores e de terceiros de modo a corroborar c
 
 ---
 
-## 📑 Conteúdo do Documento
+## Conteúdo do Documento
 
 O documento é separado em algumas partes de acordo com o sumário:
 
@@ -28,7 +28,7 @@ O documento é separado em algumas partes de acordo com o sumário:
 
 ---
 
-# 🎥 Exemplo Visual
+# Exemplo Visual
 
 Aqui vai uma demonstração de como é a leitura do projeto e como é sua estrutura:
 
@@ -37,7 +37,7 @@ Aqui vai uma demonstração de como é a leitura do projeto e como é sua estrut
 
 ---
 
-## 📄 Formato
+## Formato
 
 - Arquivo: `Gustavo X Vitor - Benefícios e dificuldades na implantação de um sistema ERP.pdf`
 - Formato: PDF
@@ -45,7 +45,7 @@ Aqui vai uma demonstração de como é a leitura do projeto e como é sua estrut
 
 ---
 
-## 📥 Como acessar
+## Como acessar
 
 Você pode abrir o documento diretamente aqui no GitHub ou fazer o download para leitura local:
 
@@ -53,7 +53,7 @@ Você pode abrir o documento diretamente aqui no GitHub ou fazer o download para
 
 ---
 
-## 🧩 Requisitos para leitura
+## Requisitos para leitura
 
 - Qualquer leitor de PDF (Adobe Reader, navegador, celular etc).
 
